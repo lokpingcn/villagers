@@ -1,0 +1,2480 @@
+[
+  {
+    "id": "ant00",
+    "eng": "Cyrano",
+    "chs": "阳明",
+    "cht": "陽明"
+  },
+  {
+    "id": "ant01",
+    "eng": "Antonio",
+    "chs": "阿诚",
+    "cht": "阿誠"
+  },
+  {
+    "id": "ant02",
+    "eng": "Pango",
+    "chs": "佩希",
+    "cht": "佩希"
+  },
+  {
+    "id": "ant03",
+    "eng": "Anabelle",
+    "chs": "有美",
+    "cht": "有美"
+  },
+  {
+    "id": "ant06",
+    "eng": "Snooty",
+    "chs": "贵妃",
+    "cht": "貴妃"
+  },
+  {
+    "id": "ant08",
+    "eng": "Annalisa",
+    "chs": "小雅",
+    "cht": "小雅"
+  },
+  {
+    "id": "ant09",
+    "eng": "Olaf",
+    "chs": "安东尼",
+    "cht": "安東尼"
+  },
+  {
+    "id": "bea00",
+    "eng": "Teddy",
+    "chs": "太平",
+    "cht": "太平"
+  },
+  {
+    "id": "bea01",
+    "eng": "Pinky",
+    "chs": "丹丹",
+    "cht": "丹丹"
+  },
+  {
+    "id": "bea02",
+    "eng": "Curt",
+    "chs": "铁熊",
+    "cht": "鐵熊"
+  },
+  {
+    "id": "bea03",
+    "eng": "Chow",
+    "chs": "朝阳",
+    "cht": "朝陽"
+  },
+  {
+    "id": "bea05",
+    "eng": "Nate",
+    "chs": "巴克思",
+    "cht": "巴克思"
+  },
+  {
+    "id": "bea06",
+    "eng": "Groucho",
+    "chs": "爪爪",
+    "cht": "爪爪"
+  },
+  {
+    "id": "bea07",
+    "eng": "Tutu",
+    "chs": "恋恋",
+    "cht": "戀戀"
+  },
+  {
+    "id": "bea08",
+    "eng": "Ursala",
+    "chs": "妮雅",
+    "cht": "妮雅"
+  },
+  {
+    "id": "bea09",
+    "eng": "Grizzly",
+    "chs": "穆穆",
+    "cht": "穆穆"
+  },
+  {
+    "id": "bea10",
+    "eng": "Paula",
+    "chs": "瑞秋",
+    "cht": "瑞秋"
+  },
+  {
+    "id": "bea11",
+    "eng": "Ike",
+    "chs": "大功",
+    "cht": "大功"
+  },
+  {
+    "id": "bea12",
+    "eng": "Charlise",
+    "chs": "恰咪",
+    "cht": "恰咪"
+  },
+  {
+    "id": "bea13",
+    "eng": "Beardo",
+    "chs": "熊大叔",
+    "cht": "熊大叔"
+  },
+  {
+    "id": "bea14",
+    "eng": "Klaus",
+    "chs": "熊战士",
+    "cht": "熊戰士"
+  },
+  {
+    "id": "bea15",
+    "eng": "Megan",
+    "chs": "糖果",
+    "cht": "糖果"
+  },
+  {
+    "id": "brd00",
+    "eng": "Jay",
+    "chs": "阿燕",
+    "cht": "阿燕"
+  },
+  {
+    "id": "brd01",
+    "eng": "Robin",
+    "chs": "喳喳",
+    "cht": "喳喳"
+  },
+  {
+    "id": "brd02",
+    "eng": "Anchovy",
+    "chs": "凤尾",
+    "cht": "鳳尾"
+  },
+  {
+    "id": "brd03",
+    "eng": "Twiggy",
+    "chs": "叽叽",
+    "cht": "嘰嘰"
+  },
+  {
+    "id": "brd04",
+    "eng": "Jitters",
+    "chs": "纪诺",
+    "cht": "紀諾"
+  },
+  {
+    "id": "brd05",
+    "eng": "Piper",
+    "chs": "丽婷",
+    "cht": "麗婷"
+  },
+  {
+    "id": "brd06",
+    "eng": "Admiral",
+    "chs": "李彻",
+    "cht": "李徹"
+  },
+  {
+    "id": "brd08",
+    "eng": "Midge",
+    "chs": "小酒窝",
+    "cht": "小酒窩"
+  },
+  {
+    "id": "brd11",
+    "eng": "Jacob",
+    "chs": "余板",
+    "cht": "余板"
+  },
+  {
+    "id": "brd15",
+    "eng": "Lucha",
+    "chs": "摔角鸦",
+    "cht": "摔角鴉"
+  },
+  {
+    "id": "brd16",
+    "eng": "Jacques",
+    "chs": "赵奇",
+    "cht": "趙奇"
+  },
+  {
+    "id": "brd17",
+    "eng": "Peck",
+    "chs": "文雄",
+    "cht": "文雄"
+  },
+  {
+    "id": "brd18",
+    "eng": "Sparro",
+    "chs": "周之翔",
+    "cht": "周之翔"
+  },
+  {
+    "id": "bul00",
+    "eng": "Angus",
+    "chs": "施万德",
+    "cht": "施萬德"
+  },
+  {
+    "id": "bul01",
+    "eng": "Rodeo",
+    "chs": "罗迪欧",
+    "cht": "羅迪歐"
+  },
+  {
+    "id": "bul03",
+    "eng": "Stu",
+    "chs": "毛乐时",
+    "cht": "毛樂時"
+  },
+  {
+    "id": "bul05",
+    "eng": "T-Bone",
+    "chs": "罗宋",
+    "cht": "羅宋"
+  },
+  {
+    "id": "bul07",
+    "eng": "Coach",
+    "chs": "大常",
+    "cht": "大常"
+  },
+  {
+    "id": "bul08",
+    "eng": "Vic",
+    "chs": "卢尔曼",
+    "cht": "盧爾曼"
+  },
+  {
+    "id": "cat00",
+    "eng": "Bob",
+    "chs": "阿判",
+    "cht": "阿判"
+  },
+  {
+    "id": "cat01",
+    "eng": "Mitzi",
+    "chs": "圆圆",
+    "cht": "圓圓"
+  },
+  {
+    "id": "cat02",
+    "eng": "Rosie",
+    "chs": "彭花",
+    "cht": "彭花"
+  },
+  {
+    "id": "cat03",
+    "eng": "Olivia",
+    "chs": "奥莉",
+    "cht": "奧莉"
+  },
+  {
+    "id": "cat04",
+    "eng": "Kiki",
+    "chs": "余子酱",
+    "cht": "余子醬"
+  },
+  {
+    "id": "cat05",
+    "eng": "Tangy",
+    "chs": "纯纯",
+    "cht": "純純"
+  },
+  {
+    "id": "cat06",
+    "eng": "Punchy",
+    "chs": "尔光",
+    "cht": "爾光"
+  },
+  {
+    "id": "cat07",
+    "eng": "Purrl",
+    "chs": "小玉",
+    "cht": "小玉"
+  },
+  {
+    "id": "cat08",
+    "eng": "Moe",
+    "chs": "仁平",
+    "cht": "仁平"
+  },
+  {
+    "id": "cat09",
+    "eng": "Kabuki",
+    "chs": "戈伍纪",
+    "cht": "戈伍紀"
+  },
+  {
+    "id": "cat10",
+    "eng": "Kid Cat",
+    "chs": "阿一",
+    "cht": "阿一"
+  },
+  {
+    "id": "cat11",
+    "eng": "Monique",
+    "chs": "珍珍",
+    "cht": "珍珍"
+  },
+  {
+    "id": "cat12",
+    "eng": "Tabby",
+    "chs": "小虎",
+    "cht": "小虎"
+  },
+  {
+    "id": "cat13",
+    "eng": "Stinky",
+    "chs": "男子汗",
+    "cht": "男子汗"
+  },
+  {
+    "id": "cat14",
+    "eng": "Kitty",
+    "chs": "朱古莉",
+    "cht": "朱古莉"
+  },
+  {
+    "id": "cat15",
+    "eng": "Tom",
+    "chs": "阿邦",
+    "cht": "阿邦"
+  },
+  {
+    "id": "cat16",
+    "eng": "Merry",
+    "chs": "莎莎",
+    "cht": "莎莎"
+  },
+  {
+    "id": "cat17",
+    "eng": "Felicity",
+    "chs": "美佳",
+    "cht": "美佳"
+  },
+  {
+    "id": "cat18",
+    "eng": "Lolly",
+    "chs": "柠檬娜",
+    "cht": "檸檬娜"
+  },
+  {
+    "id": "cat19",
+    "eng": "Ankha",
+    "chs": "艳后",
+    "cht": "艷后"
+  },
+  {
+    "id": "cat20",
+    "eng": "Rudy",
+    "chs": "茶茶",
+    "cht": "茶茶"
+  },
+  {
+    "id": "cat21",
+    "eng": "Katt",
+    "chs": "巧巧",
+    "cht": "巧巧"
+  },
+  {
+    "id": "cat23",
+    "eng": "Raymond",
+    "chs": "杰克",
+    "cht": "傑克"
+  },
+  {
+    "id": "cbr00",
+    "eng": "Bluebear",
+    "chs": "娃娃",
+    "cht": "娃娃"
+  },
+  {
+    "id": "cbr01",
+    "eng": "Maple",
+    "chs": "小枫",
+    "cht": "小楓"
+  },
+  {
+    "id": "cbr02",
+    "eng": "Poncho",
+    "chs": "蓬蓬",
+    "cht": "蓬蓬"
+  },
+  {
+    "id": "cbr03",
+    "eng": "Pudge",
+    "chs": "阿钦",
+    "cht": "阿欽"
+  },
+  {
+    "id": "cbr04",
+    "eng": "Kody",
+    "chs": "艾德豪",
+    "cht": "艾德豪"
+  },
+  {
+    "id": "cbr05",
+    "eng": "Stitches",
+    "chs": "玩具熊",
+    "cht": "玩具熊"
+  },
+  {
+    "id": "cbr06",
+    "eng": "Vladimir",
+    "chs": "嘉弼",
+    "cht": "嘉弼"
+  },
+  {
+    "id": "cbr07",
+    "eng": "Murphy",
+    "chs": "宪雄",
+    "cht": "憲雄"
+  },
+  {
+    "id": "cbr09",
+    "eng": "Olive",
+    "chs": "毕克萝",
+    "cht": "畢克蘿"
+  },
+  {
+    "id": "cbr10",
+    "eng": "Cheri",
+    "chs": "樱桃",
+    "cht": "櫻桃"
+  },
+  {
+    "id": "cbr13",
+    "eng": "June",
+    "chs": "阿妹",
+    "cht": "阿妹"
+  },
+  {
+    "id": "cbr14",
+    "eng": "Pekoe",
+    "chs": "佳敏",
+    "cht": "佳敏"
+  },
+  {
+    "id": "cbr15",
+    "eng": "Chester",
+    "chs": "胖达",
+    "cht": "胖達"
+  },
+  {
+    "id": "cbr16",
+    "eng": "Barold",
+    "chs": "阿西",
+    "cht": "阿西"
+  },
+  {
+    "id": "cbr17",
+    "eng": "Tammy",
+    "chs": "然姐",
+    "cht": "然姐"
+  },
+  {
+    "id": "cbr18",
+    "eng": "Marty",
+    "chs": "玛丁",
+    "cht": "瑪丁"
+  },
+  {
+    "id": "cbr19",
+    "eng": "Judy",
+    "chs": "美玲",
+    "cht": "美玲"
+  },
+  {
+    "id": "chn00",
+    "eng": "Goose",
+    "chs": "肯肯",
+    "cht": "肯肯"
+  },
+  {
+    "id": "chn01",
+    "eng": "Benedict",
+    "chs": "沛希",
+    "cht": "沛希"
+  },
+  {
+    "id": "chn02",
+    "eng": "Egbert",
+    "chs": "黄金鸡",
+    "cht": "黃金雞"
+  },
+  {
+    "id": "chn05",
+    "eng": "Ava",
+    "chs": "陶米咕",
+    "cht": "陶米咕"
+  },
+  {
+    "id": "chn09",
+    "eng": "Becky",
+    "chs": "咏旋",
+    "cht": "詠旋"
+  },
+  {
+    "id": "chn10",
+    "eng": "Plucky",
+    "chs": "帕塔雅",
+    "cht": "帕塔雅"
+  },
+  {
+    "id": "chn11",
+    "eng": "Knox",
+    "chs": "金阁",
+    "cht": "金閣"
+  },
+  {
+    "id": "chn12",
+    "eng": "Broffina",
+    "chs": "凯西",
+    "cht": "凱西"
+  },
+  {
+    "id": "chn13",
+    "eng": "Ken",
+    "chs": "乌骨鸡",
+    "cht": "烏骨雞"
+  },
+  {
+    "id": "cow00",
+    "eng": "Patty",
+    "chs": "阿排",
+    "cht": "阿排"
+  },
+  {
+    "id": "cow01",
+    "eng": "Tipper",
+    "chs": "牧牧",
+    "cht": "牧牧"
+  },
+  {
+    "id": "cow06",
+    "eng": "Norma",
+    "chs": "晨曦",
+    "cht": "晨曦"
+  },
+  {
+    "id": "cow07",
+    "eng": "Naomi",
+    "chs": "玉兰",
+    "cht": "玉蘭"
+  },
+  {
+    "id": "crd00",
+    "eng": "Alfonso",
+    "chs": "阿泥",
+    "cht": "阿泥"
+  },
+  {
+    "id": "crd01",
+    "eng": "Alli",
+    "chs": "鳄罗思",
+    "cht": "鱷羅思"
+  },
+  {
+    "id": "crd02",
+    "eng": "Boots",
+    "chs": "丰年",
+    "cht": "豐年"
+  },
+  {
+    "id": "crd04",
+    "eng": "Del",
+    "chs": "大和",
+    "cht": "大和"
+  },
+  {
+    "id": "crd06",
+    "eng": "Sly",
+    "chs": "海德",
+    "cht": "海德"
+  },
+  {
+    "id": "crd07",
+    "eng": "Gayle",
+    "chs": "爱莉",
+    "cht": "愛莉"
+  },
+  {
+    "id": "crd08",
+    "eng": "Drago",
+    "chs": "阿龙",
+    "cht": "阿龍"
+  },
+  {
+    "id": "der00",
+    "eng": "Fauna",
+    "chs": "音音",
+    "cht": "音音"
+  },
+  {
+    "id": "der01",
+    "eng": "Bam",
+    "chs": "小健",
+    "cht": "小健"
+  },
+  {
+    "id": "der02",
+    "eng": "Zell",
+    "chs": "森森",
+    "cht": "森森"
+  },
+  {
+    "id": "der03",
+    "eng": "Bruce",
+    "chs": "布鹿斯",
+    "cht": "布鹿斯"
+  },
+  {
+    "id": "der04",
+    "eng": "Deirdre",
+    "chs": "娣雅",
+    "cht": "娣雅"
+  },
+  {
+    "id": "der05",
+    "eng": "Lopez",
+    "chs": "汤姆",
+    "cht": "湯姆"
+  },
+  {
+    "id": "der06",
+    "eng": "Fuchsia",
+    "chs": "洁西卡",
+    "cht": "潔西卡"
+  },
+  {
+    "id": "der07",
+    "eng": "Beau",
+    "chs": "彼得",
+    "cht": "彼得"
+  },
+  {
+    "id": "der08",
+    "eng": "Diana",
+    "chs": "倪家莉",
+    "cht": "倪家莉"
+  },
+  {
+    "id": "der09",
+    "eng": "Erik",
+    "chs": "查克",
+    "cht": "查克"
+  },
+  {
+    "id": "der10",
+    "eng": "Chelsea",
+    "chs": "雀儿喜",
+    "cht": "雀兒喜"
+  },
+  {
+    "id": "dog00",
+    "eng": "Goldie",
+    "chs": "牛奶糖",
+    "cht": "牛奶糖"
+  },
+  {
+    "id": "dog01",
+    "eng": "Butch",
+    "chs": "约翰",
+    "cht": "約翰"
+  },
+  {
+    "id": "dog02",
+    "eng": "Lucky",
+    "chs": "大吉",
+    "cht": "大吉"
+  },
+  {
+    "id": "dog03",
+    "eng": "Biskit",
+    "chs": "罗宾",
+    "cht": "羅賓"
+  },
+  {
+    "id": "dog04",
+    "eng": "Bones",
+    "chs": "阿富",
+    "cht": "阿富"
+  },
+  {
+    "id": "dog05",
+    "eng": "Portia",
+    "chs": "傅兰",
+    "cht": "傅蘭"
+  },
+  {
+    "id": "dog06",
+    "eng": "Walker",
+    "chs": "阿笨",
+    "cht": "阿笨"
+  },
+  {
+    "id": "dog07",
+    "eng": "Daisy",
+    "chs": "香草",
+    "cht": "香草"
+  },
+  {
+    "id": "dog08",
+    "eng": "Cookie",
+    "chs": "珮琳",
+    "cht": "珮琳"
+  },
+  {
+    "id": "dog09",
+    "eng": "Maddie",
+    "chs": "麻蓉",
+    "cht": "麻蓉"
+  },
+  {
+    "id": "dog10",
+    "eng": "Bea",
+    "chs": "贝果",
+    "cht": "貝果"
+  },
+  {
+    "id": "dog14",
+    "eng": "Mac",
+    "chs": "金牌",
+    "cht": "金牌"
+  },
+  {
+    "id": "dog15",
+    "eng": "Marcel",
+    "chs": "文字烧",
+    "cht": "文字燒"
+  },
+  {
+    "id": "dog16",
+    "eng": "Benjamin",
+    "chs": "小八",
+    "cht": "小八"
+  },
+  {
+    "id": "dog17",
+    "eng": "Cherry",
+    "chs": "花娜",
+    "cht": "花娜"
+  },
+  {
+    "id": "dog18",
+    "eng": "Shep",
+    "chs": "包伯",
+    "cht": "包伯"
+  },
+  {
+    "id": "duk00",
+    "eng": "Bill",
+    "chs": "皮蛋",
+    "cht": "皮蛋"
+  },
+  {
+    "id": "duk01",
+    "eng": "Joey",
+    "chs": "李察",
+    "cht": "李察"
+  },
+  {
+    "id": "duk02",
+    "eng": "Pate",
+    "chs": "爱哭鬼",
+    "cht": "愛哭鬼"
+  },
+  {
+    "id": "duk03",
+    "eng": "Maelle",
+    "chs": "安妮",
+    "cht": "安妮"
+  },
+  {
+    "id": "duk04",
+    "eng": "Deena",
+    "chs": "球藻",
+    "cht": "毬藻"
+  },
+  {
+    "id": "duk05",
+    "eng": "Pompom",
+    "chs": "海苔裴",
+    "cht": "海苔裴"
+  },
+  {
+    "id": "duk06",
+    "eng": "Mallary",
+    "chs": "苏米",
+    "cht": "蘇米"
+  },
+  {
+    "id": "duk07",
+    "eng": "Freckles",
+    "chs": "小鲔",
+    "cht": "小鮪"
+  },
+  {
+    "id": "duk08",
+    "eng": "Derwin",
+    "chs": "阿坊",
+    "cht": "阿坊"
+  },
+  {
+    "id": "duk09",
+    "eng": "Drake",
+    "chs": "肥肝",
+    "cht": "肥肝"
+  },
+  {
+    "id": "duk10",
+    "eng": "Scoot",
+    "chs": "阿守",
+    "cht": "阿守"
+  },
+  {
+    "id": "duk11",
+    "eng": "Weber",
+    "chs": "卿德",
+    "cht": "卿德"
+  },
+  {
+    "id": "duk12",
+    "eng": "Miranda",
+    "chs": "米兰达",
+    "cht": "米蘭達"
+  },
+  {
+    "id": "duk13",
+    "eng": "Ketchup",
+    "chs": "番茄酱",
+    "cht": "番茄醬"
+  },
+  {
+    "id": "duk15",
+    "eng": "Gloria",
+    "chs": "素返真",
+    "cht": "素返真"
+  },
+  {
+    "id": "duk16",
+    "eng": "Molly",
+    "chs": "亚美",
+    "cht": "亞美"
+  },
+  {
+    "id": "duk17",
+    "eng": "Quillson",
+    "chs": "何童",
+    "cht": "何童"
+  },
+  {
+    "id": "elp00",
+    "eng": "Opal",
+    "chs": "露露",
+    "cht": "露露"
+  },
+  {
+    "id": "elp01",
+    "eng": "Dizzy",
+    "chs": "巨巨",
+    "cht": "巨巨"
+  },
+  {
+    "id": "elp02",
+    "eng": "Big Top",
+    "chs": "阿三",
+    "cht": "阿三"
+  },
+  {
+    "id": "elp03",
+    "eng": "Eloise",
+    "chs": "艾勒芬",
+    "cht": "艾勒芬"
+  },
+  {
+    "id": "elp04",
+    "eng": "Margie",
+    "chs": "莎莉",
+    "cht": "莎莉"
+  },
+  {
+    "id": "elp05",
+    "eng": "Paolo",
+    "chs": "保罗",
+    "cht": "保羅"
+  },
+  {
+    "id": "elp06",
+    "eng": "Axel",
+    "chs": "大大",
+    "cht": "大大"
+  },
+  {
+    "id": "elp07",
+    "eng": "Ellie",
+    "chs": "泡芙",
+    "cht": "泡芙"
+  },
+  {
+    "id": "elp09",
+    "eng": "Tucker",
+    "chs": "阿原",
+    "cht": "阿原"
+  },
+  {
+    "id": "elp10",
+    "eng": "Tia",
+    "chs": "茉莉",
+    "cht": "茉莉"
+  },
+  {
+    "id": "elp11",
+    "eng": "Chai",
+    "chs": "啡卡",
+    "cht": "啡卡"
+  },
+  {
+    "id": "elp12",
+    "eng": "Cyd",
+    "chs": "庞克斯",
+    "cht": "龐克斯"
+  },
+  {
+    "id": "flg00",
+    "eng": "Lily",
+    "chs": "雷妮",
+    "cht": "雷妮"
+  },
+  {
+    "id": "flg01",
+    "eng": "Ribbot",
+    "chs": "锵锵",
+    "cht": "鏘鏘"
+  },
+  {
+    "id": "flg02",
+    "eng": "Frobert",
+    "chs": "江适",
+    "cht": "江適"
+  },
+  {
+    "id": "flg03",
+    "eng": "Camofrog",
+    "chs": "迷仔",
+    "cht": "迷仔"
+  },
+  {
+    "id": "flg04",
+    "eng": "Drift",
+    "chs": "毒仔",
+    "cht": "毒仔"
+  },
+  {
+    "id": "flg05",
+    "eng": "Wart Jr.",
+    "chs": "山姆",
+    "cht": "山姆"
+  },
+  {
+    "id": "flg06",
+    "eng": "Puddles",
+    "chs": "剪刀",
+    "cht": "剪刀"
+  },
+  {
+    "id": "flg07",
+    "eng": "Jeremiah",
+    "chs": "阿刻",
+    "cht": "阿刻"
+  },
+  {
+    "id": "flg09",
+    "eng": "Tad",
+    "chs": "阿田",
+    "cht": "阿田"
+  },
+  {
+    "id": "flg10",
+    "eng": "Cousteau",
+    "chs": "春卷",
+    "cht": "春卷"
+  },
+  {
+    "id": "flg11",
+    "eng": "Huck",
+    "chs": "吸管",
+    "cht": "吸管"
+  },
+  {
+    "id": "flg12",
+    "eng": "Prince",
+    "chs": "青呱",
+    "cht": "青呱"
+  },
+  {
+    "id": "flg13",
+    "eng": "Jambette",
+    "chs": "翡翠",
+    "cht": "翡翠"
+  },
+  {
+    "id": "flg15",
+    "eng": "Raddle",
+    "chs": "嘉俊",
+    "cht": "嘉俊"
+  },
+  {
+    "id": "flg16",
+    "eng": "Gigi",
+    "chs": "林妲",
+    "cht": "林妲"
+  },
+  {
+    "id": "flg17",
+    "eng": "Croque",
+    "chs": "太子",
+    "cht": "太子"
+  },
+  {
+    "id": "flg18",
+    "eng": "Diva",
+    "chs": "小睫",
+    "cht": "小睫"
+  },
+  {
+    "id": "flg19",
+    "eng": "Henry",
+    "chs": "亨利",
+    "cht": "亨利"
+  },
+  {
+    "id": "goa00",
+    "eng": "Chevre",
+    "chs": "雪儿",
+    "cht": "雪兒"
+  },
+  {
+    "id": "goa01",
+    "eng": "Nan",
+    "chs": "墨墨",
+    "cht": "墨墨"
+  },
+  {
+    "id": "goa02",
+    "eng": "Billy",
+    "chs": "亚星",
+    "cht": "亞星"
+  },
+  {
+    "id": "goa04",
+    "eng": "Gruff",
+    "chs": "比利",
+    "cht": "比利"
+  },
+  {
+    "id": "goa06",
+    "eng": "Velma",
+    "chs": "班长",
+    "cht": "班長"
+  },
+  {
+    "id": "goa07",
+    "eng": "Kidd",
+    "chs": "文青",
+    "cht": "文青"
+  },
+  {
+    "id": "goa08",
+    "eng": "Pashmina",
+    "chs": "芭芭拉",
+    "cht": "芭芭拉"
+  },
+  {
+    "id": "goa09",
+    "eng": "Sherb",
+    "chs": "雷姆",
+    "cht": "雷姆"
+  },
+  {
+    "id": "gor00",
+    "eng": "Cesar",
+    "chs": "阿朗",
+    "cht": "阿朗"
+  },
+  {
+    "id": "gor01",
+    "eng": "Peewee",
+    "chs": "哑铃",
+    "cht": "啞鈴"
+  },
+  {
+    "id": "gor02",
+    "eng": "Boone",
+    "chs": "万泰",
+    "cht": "萬泰"
+  },
+  {
+    "id": "gor04",
+    "eng": "Louie",
+    "chs": "壮壮",
+    "cht": "壯壯"
+  },
+  {
+    "id": "gor05",
+    "eng": "Boyd",
+    "chs": "空空",
+    "cht": "空空"
+  },
+  {
+    "id": "gor07",
+    "eng": "Violet",
+    "chs": "吴紫眉",
+    "cht": "吳紫眉"
+  },
+  {
+    "id": "gor08",
+    "eng": "Al",
+    "chs": "阿保",
+    "cht": "阿保"
+  },
+  {
+    "id": "gor09",
+    "eng": "Rocket",
+    "chs": "阿四",
+    "cht": "阿四"
+  },
+  {
+    "id": "gor10",
+    "eng": "Hans",
+    "chs": "史奈鲁",
+    "cht": "史奈魯"
+  },
+  {
+    "id": "gor11",
+    "eng": "Rilla",
+    "chs": "莉拉",
+    "cht": "莉拉"
+  },
+  {
+    "id": "ham00",
+    "eng": "Hamlet",
+    "chs": "哈姆",
+    "cht": "哈姆"
+  },
+  {
+    "id": "ham01",
+    "eng": "Apple",
+    "chs": "苹果",
+    "cht": "蘋果"
+  },
+  {
+    "id": "ham02",
+    "eng": "Graham",
+    "chs": "麦麦",
+    "cht": "麥麥"
+  },
+  {
+    "id": "ham03",
+    "eng": "Rodney",
+    "chs": "米米",
+    "cht": "米米"
+  },
+  {
+    "id": "ham04",
+    "eng": "Soleil",
+    "chs": "安安",
+    "cht": "安安"
+  },
+  {
+    "id": "ham05",
+    "eng": "Clay",
+    "chs": "子墨",
+    "cht": "子墨"
+  },
+  {
+    "id": "ham06",
+    "eng": "Flurry",
+    "chs": "雪美",
+    "cht": "雪美"
+  },
+  {
+    "id": "ham07",
+    "eng": "Hamphrey",
+    "chs": "小仓",
+    "cht": "小倉"
+  },
+  {
+    "id": "hip00",
+    "eng": "Rocco",
+    "chs": "孔在来",
+    "cht": "孔在來"
+  },
+  {
+    "id": "hip02",
+    "eng": "Bubbles",
+    "chs": "曹珂",
+    "cht": "曹珂"
+  },
+  {
+    "id": "hip03",
+    "eng": "Bertha",
+    "chs": "豆沙",
+    "cht": "豆沙"
+  },
+  {
+    "id": "hip04",
+    "eng": "Biff",
+    "chs": "贾宝为",
+    "cht": "賈寶為"
+  },
+  {
+    "id": "hip05",
+    "eng": "Bitty",
+    "chs": "艾咪",
+    "cht": "艾咪"
+  },
+  {
+    "id": "hip08",
+    "eng": "Harry",
+    "chs": "欧世豪",
+    "cht": "歐世豪"
+  },
+  {
+    "id": "hip09",
+    "eng": "Hippeux",
+    "chs": "戴维",
+    "cht": "戴維"
+  },
+  {
+    "id": "hrs00",
+    "eng": "Buck",
+    "chs": "威亚",
+    "cht": "威亞"
+  },
+  {
+    "id": "hrs01",
+    "eng": "Victoria",
+    "chs": "圣萝",
+    "cht": "聖蘿"
+  },
+  {
+    "id": "hrs02",
+    "eng": "Savannah",
+    "chs": "草斑娜",
+    "cht": "草斑娜"
+  },
+  {
+    "id": "hrs03",
+    "eng": "Elmer",
+    "chs": "酥饼",
+    "cht": "酥餅"
+  },
+  {
+    "id": "hrs04",
+    "eng": "Roscoe",
+    "chs": "黑马",
+    "cht": "黑馬"
+  },
+  {
+    "id": "hrs05",
+    "eng": "Winnie",
+    "chs": "马星星",
+    "cht": "馬星星"
+  },
+  {
+    "id": "hrs06",
+    "eng": "Ed",
+    "chs": "马誉",
+    "cht": "馬譽"
+  },
+  {
+    "id": "hrs07",
+    "eng": "Cleo",
+    "chs": "小铀",
+    "cht": "小鈾"
+  },
+  {
+    "id": "hrs08",
+    "eng": "Peaches",
+    "chs": "小薰",
+    "cht": "小薰"
+  },
+  {
+    "id": "hrs09",
+    "eng": "Annalise",
+    "chs": "舒芙蕾",
+    "cht": "舒芙蕾"
+  },
+  {
+    "id": "hrs10",
+    "eng": "Clyde",
+    "chs": "笛笛",
+    "cht": "笛笛"
+  },
+  {
+    "id": "hrs11",
+    "eng": "Colton",
+    "chs": "安索尼",
+    "cht": "安索尼"
+  },
+  {
+    "id": "hrs12",
+    "eng": "Papi",
+    "chs": "小冈",
+    "cht": "小岡"
+  },
+  {
+    "id": "hrs13",
+    "eng": "Julian",
+    "chs": "朱黎",
+    "cht": "朱黎"
+  },
+  {
+    "id": "hrs16",
+    "eng": "Reneigh",
+    "chs": "雷哈娜",
+    "cht": "雷哈娜"
+  },
+  {
+    "id": "kal00",
+    "eng": "Yuka",
+    "chs": "尤嘉莉",
+    "cht": "尤嘉莉"
+  },
+  {
+    "id": "kal01",
+    "eng": "Alice",
+    "chs": "莫儿",
+    "cht": "莫兒"
+  },
+  {
+    "id": "kal02",
+    "eng": "Melba",
+    "chs": "阿得",
+    "cht": "阿得"
+  },
+  {
+    "id": "kal03",
+    "eng": "Sydney",
+    "chs": "思颖",
+    "cht": "思穎"
+  },
+  {
+    "id": "kal04",
+    "eng": "Gonzo",
+    "chs": "钢锁",
+    "cht": "鋼鎖"
+  },
+  {
+    "id": "kal05",
+    "eng": "Ozzie",
+    "chs": "阿栗",
+    "cht": "阿栗"
+  },
+  {
+    "id": "kal08",
+    "eng": "Canberra",
+    "chs": "简培菈",
+    "cht": "簡培菈"
+  },
+  {
+    "id": "kal09",
+    "eng": "Lyman",
+    "chs": "敖志明",
+    "cht": "敖志明"
+  },
+  {
+    "id": "kal10",
+    "eng": "Eugene",
+    "chs": "罗奇",
+    "cht": "羅奇"
+  },
+  {
+    "id": "kgr00",
+    "eng": "Kitt",
+    "chs": "缝缝",
+    "cht": "縫縫"
+  },
+  {
+    "id": "kgr01",
+    "eng": "Mathilda",
+    "chs": "亚莎",
+    "cht": "亞莎"
+  },
+  {
+    "id": "kgr02",
+    "eng": "Carrie",
+    "chs": "妈咪",
+    "cht": "媽咪"
+  },
+  {
+    "id": "kgr05",
+    "eng": "Astrid",
+    "chs": "童儿",
+    "cht": "童兒"
+  },
+  {
+    "id": "kgr06",
+    "eng": "Sylvia",
+    "chs": "希薇亚",
+    "cht": "希薇亞"
+  },
+  {
+    "id": "kgr08",
+    "eng": "Walt",
+    "chs": "袋钢",
+    "cht": "袋鋼"
+  },
+  {
+    "id": "kgr09",
+    "eng": "Rooney",
+    "chs": "麦克",
+    "cht": "麥克"
+  },
+  {
+    "id": "kgr10",
+    "eng": "Marcie",
+    "chs": "玛莉亚",
+    "cht": "瑪莉亞"
+  },
+  {
+    "id": "lon00",
+    "eng": "Bud",
+    "chs": "莫敬",
+    "cht": "莫敬"
+  },
+  {
+    "id": "lon01",
+    "eng": "Elvis",
+    "chs": "皇狮",
+    "cht": "皇獅"
+  },
+  {
+    "id": "lon02",
+    "eng": "Rex",
+    "chs": "晴天",
+    "cht": "晴天"
+  },
+  {
+    "id": "lon04",
+    "eng": "Leopold",
+    "chs": "老狮",
+    "cht": "老獅"
+  },
+  {
+    "id": "lon06",
+    "eng": "Mott",
+    "chs": "李克",
+    "cht": "李克"
+  },
+  {
+    "id": "lon07",
+    "eng": "Rory",
+    "chs": "亚瑟",
+    "cht": "亞瑟"
+  },
+  {
+    "id": "lon08",
+    "eng": "Lionel",
+    "chs": "赖恩睿",
+    "cht": "賴恩睿"
+  },
+  {
+    "id": "mnk01",
+    "eng": "Nana",
+    "chs": "七七",
+    "cht": "七七"
+  },
+  {
+    "id": "mnk02",
+    "eng": "Simon",
+    "chs": "远仁",
+    "cht": "遠仁"
+  },
+  {
+    "id": "mnk03",
+    "eng": "Tammi",
+    "chs": "四月",
+    "cht": "四月"
+  },
+  {
+    "id": "mnk04",
+    "eng": "Monty",
+    "chs": "皮猴",
+    "cht": "皮猴"
+  },
+  {
+    "id": "mnk05",
+    "eng": "Elise",
+    "chs": "孟琪",
+    "cht": "孟琪"
+  },
+  {
+    "id": "mnk06",
+    "eng": "Flip",
+    "chs": "天佑",
+    "cht": "天佑"
+  },
+  {
+    "id": "mnk07",
+    "eng": "Shari",
+    "chs": "雪莉",
+    "cht": "雪莉"
+  },
+  {
+    "id": "mnk08",
+    "eng": "Deli",
+    "chs": "德里",
+    "cht": "德里"
+  },
+  {
+    "id": "mus00",
+    "eng": "Dora",
+    "chs": "杜美",
+    "cht": "杜美"
+  },
+  {
+    "id": "mus01",
+    "eng": "Limberg",
+    "chs": "韭菜",
+    "cht": "韭菜"
+  },
+  {
+    "id": "mus02",
+    "eng": "Bella",
+    "chs": "贝拉",
+    "cht": "貝拉"
+  },
+  {
+    "id": "mus03",
+    "eng": "Bree",
+    "chs": "西瓜皮",
+    "cht": "西瓜皮"
+  },
+  {
+    "id": "mus04",
+    "eng": "Samson",
+    "chs": "和平",
+    "cht": "和平"
+  },
+  {
+    "id": "mus05",
+    "eng": "Rod",
+    "chs": "阿将",
+    "cht": "阿將"
+  },
+  {
+    "id": "mus08",
+    "eng": "Candi",
+    "chs": "甘油",
+    "cht": "甘油"
+  },
+  {
+    "id": "mus09",
+    "eng": "Rizzo",
+    "chs": "悄俊",
+    "cht": "悄俊"
+  },
+  {
+    "id": "mus10",
+    "eng": "Anicotti",
+    "chs": "罗萱儿",
+    "cht": "羅萱兒"
+  },
+  {
+    "id": "mus12",
+    "eng": "Broccolo",
+    "chs": "茜蓝",
+    "cht": "茜藍"
+  },
+  {
+    "id": "mus14",
+    "eng": "Moose",
+    "chs": "阿聘",
+    "cht": "阿聘"
+  },
+  {
+    "id": "mus15",
+    "eng": "Bettina",
+    "chs": "丸子",
+    "cht": "丸子"
+  },
+  {
+    "id": "mus16",
+    "eng": "Greta",
+    "chs": "如意",
+    "cht": "如意"
+  },
+  {
+    "id": "mus17",
+    "eng": "Penelope",
+    "chs": "小啾",
+    "cht": "小啾"
+  },
+  {
+    "id": "mus18",
+    "eng": "Chadder",
+    "chs": "起司",
+    "cht": "起司"
+  },
+  {
+    "id": "ocp00",
+    "eng": "Octavian",
+    "chs": "张瑜",
+    "cht": "張瑜"
+  },
+  {
+    "id": "ocp01",
+    "eng": "Marina",
+    "chs": "章立娜",
+    "cht": "章立娜"
+  },
+  {
+    "id": "ocp02",
+    "eng": "Zucker",
+    "chs": "章丸丸",
+    "cht": "章丸丸"
+  },
+  {
+    "id": "ost00",
+    "eng": "Queenie",
+    "chs": "果果",
+    "cht": "果果"
+  },
+  {
+    "id": "ost01",
+    "eng": "Gladys",
+    "chs": "仙仙",
+    "cht": "仙仙"
+  },
+  {
+    "id": "ost02",
+    "eng": "Sandy",
+    "chs": "小岚",
+    "cht": "小嵐"
+  },
+  {
+    "id": "ost03",
+    "eng": "Sprocket",
+    "chs": "鹤兹",
+    "cht": "鶴茲"
+  },
+  {
+    "id": "ost05",
+    "eng": "Julia",
+    "chs": "朱莉亚",
+    "cht": "朱莉亞"
+  },
+  {
+    "id": "ost06",
+    "eng": "Cranston",
+    "chs": "朱禄",
+    "cht": "朱祿"
+  },
+  {
+    "id": "ost07",
+    "eng": "Phil",
+    "chs": "凯恩",
+    "cht": "凱恩"
+  },
+  {
+    "id": "ost08",
+    "eng": "Blanche",
+    "chs": "小偲",
+    "cht": "小偲"
+  },
+  {
+    "id": "ost09",
+    "eng": "Flora",
+    "chs": "胡拉拉",
+    "cht": "胡拉拉"
+  },
+  {
+    "id": "ost10",
+    "eng": "Phoebe",
+    "chs": "火鸟",
+    "cht": "火鳥"
+  },
+  {
+    "id": "pbr00",
+    "eng": "Apollo",
+    "chs": "阿波罗",
+    "cht": "阿波羅"
+  },
+  {
+    "id": "pbr01",
+    "eng": "Amelia",
+    "chs": "安地斯",
+    "cht": "安地斯"
+  },
+  {
+    "id": "pbr02",
+    "eng": "Pierce",
+    "chs": "谢博强",
+    "cht": "謝博強"
+  },
+  {
+    "id": "pbr03",
+    "eng": "Buzz",
+    "chs": "继光",
+    "cht": "繼光"
+  },
+  {
+    "id": "pbr05",
+    "eng": "Avery",
+    "chs": "安谷斯",
+    "cht": "安谷斯"
+  },
+  {
+    "id": "pbr06",
+    "eng": "Frank",
+    "chs": "浩克",
+    "cht": "浩克"
+  },
+  {
+    "id": "pbr07",
+    "eng": "Sterling",
+    "chs": "银阁",
+    "cht": "銀閣"
+  },
+  {
+    "id": "pbr08",
+    "eng": "Keaton",
+    "chs": "法兰克",
+    "cht": "法蘭克"
+  },
+  {
+    "id": "pbr09",
+    "eng": "Celia",
+    "chs": "蒂芬妮",
+    "cht": "蒂芬妮"
+  },
+  {
+    "id": "pgn00",
+    "eng": "Aurora",
+    "chs": "欧若拉",
+    "cht": "歐若拉"
+  },
+  {
+    "id": "pgn01",
+    "eng": "Roald",
+    "chs": "企鹅达",
+    "cht": "企鵝達"
+  },
+  {
+    "id": "pgn02",
+    "eng": "Cube",
+    "chs": "罗斯",
+    "cht": "羅斯"
+  },
+  {
+    "id": "pgn03",
+    "eng": "Hopper",
+    "chs": "达满",
+    "cht": "達滿"
+  },
+  {
+    "id": "pgn04",
+    "eng": "Friga",
+    "chs": "谢宾娜",
+    "cht": "謝賓娜"
+  },
+  {
+    "id": "pgn05",
+    "eng": "Gwen",
+    "chs": "宝拉",
+    "cht": "寶拉"
+  },
+  {
+    "id": "pgn06",
+    "eng": "Puck",
+    "chs": "哈奇",
+    "cht": "哈奇"
+  },
+  {
+    "id": "pgn09",
+    "eng": "Wade",
+    "chs": "竹轮",
+    "cht": "竹輪"
+  },
+  {
+    "id": "pgn10",
+    "eng": "Boomer",
+    "chs": "秀益",
+    "cht": "秀益"
+  },
+  {
+    "id": "pgn11",
+    "eng": "Iggly",
+    "chs": "花寿司",
+    "cht": "花壽司"
+  },
+  {
+    "id": "pgn12",
+    "eng": "Tex",
+    "chs": "伏特",
+    "cht": "伏特"
+  },
+  {
+    "id": "pgn13",
+    "eng": "Flo",
+    "chs": "蕾拉",
+    "cht": "蕾拉"
+  },
+  {
+    "id": "pgn14",
+    "eng": "Sprinkle",
+    "chs": "冰莎",
+    "cht": "冰莎"
+  },
+  {
+    "id": "pig00",
+    "eng": "Curly",
+    "chs": "胜利",
+    "cht": "勝利"
+  },
+  {
+    "id": "pig01",
+    "eng": "Truffles",
+    "chs": "嘟嘟",
+    "cht": "嘟嘟"
+  },
+  {
+    "id": "pig02",
+    "eng": "Rasher",
+    "chs": "古烈",
+    "cht": "古烈"
+  },
+  {
+    "id": "pig03",
+    "eng": "Hugh",
+    "chs": "阿猪",
+    "cht": "阿豬"
+  },
+  {
+    "id": "pig04",
+    "eng": "Lucy",
+    "chs": "露西",
+    "cht": "露西"
+  },
+  {
+    "id": "pig05",
+    "eng": "Spork",
+    "chs": "肉肉",
+    "cht": "肉肉"
+  },
+  {
+    "id": "pig08",
+    "eng": "Cobb",
+    "chs": "博士",
+    "cht": "博士"
+  },
+  {
+    "id": "pig09",
+    "eng": "Boris",
+    "chs": "达利",
+    "cht": "達利"
+  },
+  {
+    "id": "pig10",
+    "eng": "Maggie",
+    "chs": "玛格",
+    "cht": "瑪格"
+  },
+  {
+    "id": "pig11",
+    "eng": "Peggy",
+    "chs": "千惠",
+    "cht": "千惠"
+  },
+  {
+    "id": "pig13",
+    "eng": "Gala",
+    "chs": "小芽",
+    "cht": "小芽"
+  },
+  {
+    "id": "pig14",
+    "eng": "Chops",
+    "chs": "豚皇",
+    "cht": "豚皇"
+  },
+  {
+    "id": "pig15",
+    "eng": "Kevin",
+    "chs": "伊比利",
+    "cht": "伊比利"
+  },
+  {
+    "id": "pig16",
+    "eng": "Pancetti",
+    "chs": "布兰妮",
+    "cht": "布蘭妮"
+  },
+  {
+    "id": "pig17",
+    "eng": "Agnes",
+    "chs": "古乃欣",
+    "cht": "古乃欣"
+  },
+  {
+    "id": "rbt00",
+    "eng": "Bunnie",
+    "chs": "莉莉安",
+    "cht": "莉莉安"
+  },
+  {
+    "id": "rbt01",
+    "eng": "Dotty",
+    "chs": "玛莎",
+    "cht": "瑪莎"
+  },
+  {
+    "id": "rbt02",
+    "eng": "Coco",
+    "chs": "仰韶",
+    "cht": "仰韶"
+  },
+  {
+    "id": "rbt03",
+    "eng": "Snake",
+    "chs": "百川",
+    "cht": "百川"
+  },
+  {
+    "id": "rbt04",
+    "eng": "Gaston",
+    "chs": "猛兔",
+    "cht": "猛兔"
+  },
+  {
+    "id": "rbt05",
+    "eng": "Gabi",
+    "chs": "珮琪",
+    "cht": "珮琪"
+  },
+  {
+    "id": "rbt06",
+    "eng": "Pippy",
+    "chs": "罗塔",
+    "cht": "羅塔"
+  },
+  {
+    "id": "rbt07",
+    "eng": "Tiffany",
+    "chs": "大姐头",
+    "cht": "大姐頭"
+  },
+  {
+    "id": "rbt08",
+    "eng": "Genji",
+    "chs": "儒林",
+    "cht": "儒林"
+  },
+  {
+    "id": "rbt09",
+    "eng": "Ruby",
+    "chs": "月兔",
+    "cht": "月兔"
+  },
+  {
+    "id": "rbt10",
+    "eng": "Doc",
+    "chs": "阿飞",
+    "cht": "阿飛"
+  },
+  {
+    "id": "rbt11",
+    "eng": "Claude",
+    "chs": "阿醋",
+    "cht": "阿醋"
+  },
+  {
+    "id": "rbt12",
+    "eng": "Francine",
+    "chs": "法蓝琪",
+    "cht": "法藍琪"
+  },
+  {
+    "id": "rbt13",
+    "eng": "Chrissy",
+    "chs": "克莉琪",
+    "cht": "克莉琪"
+  },
+  {
+    "id": "rbt14",
+    "eng": "Hopkins",
+    "chs": "风杰",
+    "cht": "風杰"
+  },
+  {
+    "id": "rbt15",
+    "eng": "O'Hare",
+    "chs": "桑托斯",
+    "cht": "桑托斯"
+  },
+  {
+    "id": "rbt16",
+    "eng": "Carmen",
+    "chs": "巧蔻",
+    "cht": "巧蔻"
+  },
+  {
+    "id": "rbt17",
+    "eng": "Bonbon",
+    "chs": "妙妙",
+    "cht": "妙妙"
+  },
+  {
+    "id": "rbt18",
+    "eng": "Cole",
+    "chs": "阿甘",
+    "cht": "阿甘"
+  },
+  {
+    "id": "rbt19",
+    "eng": "Mira",
+    "chs": "蜜拉",
+    "cht": "蜜拉"
+  },
+  {
+    "id": "rbt20",
+    "eng": "Toby",
+    "chs": "咚比",
+    "cht": "咚比"
+  },
+  {
+    "id": "rhn00",
+    "eng": "Tank",
+    "chs": "阿足",
+    "cht": "阿足"
+  },
+  {
+    "id": "rhn01",
+    "eng": "Rhonda",
+    "chs": "梦梦",
+    "cht": "夢夢"
+  },
+  {
+    "id": "rhn02",
+    "eng": "Spike",
+    "chs": "阿蹲",
+    "cht": "阿蹲"
+  },
+  {
+    "id": "rhn04",
+    "eng": "Hornsby",
+    "chs": "光雄",
+    "cht": "光雄"
+  },
+  {
+    "id": "rhn07",
+    "eng": "Merengue",
+    "chs": "草莓",
+    "cht": "草莓"
+  },
+  {
+    "id": "rhn08",
+    "eng": "Renée",
+    "chs": "柴姐",
+    "cht": "柴姐"
+  },
+  {
+    "id": "shp00",
+    "eng": "Vesta",
+    "chs": "绵绵",
+    "cht": "綿綿"
+  },
+  {
+    "id": "shp01",
+    "eng": "Baabara",
+    "chs": "华尔滋",
+    "cht": "華爾滋"
+  },
+  {
+    "id": "shp02",
+    "eng": "Eunice",
+    "chs": "毛海儿",
+    "cht": "毛海兒"
+  },
+  {
+    "id": "shp03",
+    "eng": "Stella",
+    "chs": "毡毡",
+    "cht": "氈氈"
+  },
+  {
+    "id": "shp04",
+    "eng": "Cashmere",
+    "chs": "爱睦",
+    "cht": "愛睦"
+  },
+  {
+    "id": "shp07",
+    "eng": "Willow",
+    "chs": "梅丽诺",
+    "cht": "梅麗諾"
+  },
+  {
+    "id": "shp08",
+    "eng": "Curlos",
+    "chs": "贾洛斯",
+    "cht": "賈洛斯"
+  },
+  {
+    "id": "shp09",
+    "eng": "Wendy",
+    "chs": "雪花",
+    "cht": "雪花"
+  },
+  {
+    "id": "shp10",
+    "eng": "Timbra",
+    "chs": "阿司",
+    "cht": "阿司"
+  },
+  {
+    "id": "shp11",
+    "eng": "Frita",
+    "chs": "温蒂",
+    "cht": "溫蒂"
+  },
+  {
+    "id": "shp12",
+    "eng": "Muffy",
+    "chs": "彭澎",
+    "cht": "彭澎"
+  },
+  {
+    "id": "shp13",
+    "eng": "Pietro",
+    "chs": "皮耶罗",
+    "cht": "皮耶羅"
+  },
+  {
+    "id": "shp14",
+    "eng": "Étoile",
+    "chs": "彩星",
+    "cht": "彩星"
+  },
+  {
+    "id": "shp15",
+    "eng": "Dom",
+    "chs": "茶茶丸",
+    "cht": "茶茶丸"
+  },
+  {
+    "id": "squ00",
+    "eng": "Peanut",
+    "chs": "小桃",
+    "cht": "小桃"
+  },
+  {
+    "id": "squ01",
+    "eng": "Blaire",
+    "chs": "小影",
+    "cht": "小影"
+  },
+  {
+    "id": "squ02",
+    "eng": "Filbert",
+    "chs": "瑞奇",
+    "cht": "瑞奇"
+  },
+  {
+    "id": "squ03",
+    "eng": "Pecan",
+    "chs": "雷贝嘉",
+    "cht": "雷貝嘉"
+  },
+  {
+    "id": "squ04",
+    "eng": "Nibbles",
+    "chs": "咬咬",
+    "cht": "咬咬"
+  },
+  {
+    "id": "squ05",
+    "eng": "Agent S",
+    "chs": "阿二",
+    "cht": "阿二"
+  },
+  {
+    "id": "squ06",
+    "eng": "Caroline",
+    "chs": "贾萝琳",
+    "cht": "賈蘿琳"
+  },
+  {
+    "id": "squ07",
+    "eng": "Sally",
+    "chs": "拉拉米",
+    "cht": "拉拉米"
+  },
+  {
+    "id": "squ08",
+    "eng": "Static",
+    "chs": "闪电",
+    "cht": "閃電"
+  },
+  {
+    "id": "squ09",
+    "eng": "Mint",
+    "chs": "小敏",
+    "cht": "小敏"
+  },
+  {
+    "id": "squ10",
+    "eng": "Ricky",
+    "chs": "嘉治",
+    "cht": "嘉治"
+  },
+  {
+    "id": "squ11",
+    "eng": "Cally",
+    "chs": "小芹",
+    "cht": "小芹"
+  },
+  {
+    "id": "squ13",
+    "eng": "Tasha",
+    "chs": "娜塔丽",
+    "cht": "娜塔麗"
+  },
+  {
+    "id": "squ14",
+    "eng": "Sylvana",
+    "chs": "孟珮",
+    "cht": "孟珮"
+  },
+  {
+    "id": "squ15",
+    "eng": "Poppy",
+    "chs": "软糖",
+    "cht": "軟糖"
+  },
+  {
+    "id": "squ16",
+    "eng": "Sheldon",
+    "chs": "克栗斯",
+    "cht": "克栗斯"
+  },
+  {
+    "id": "squ17",
+    "eng": "Marshal",
+    "chs": "小润",
+    "cht": "小潤"
+  },
+  {
+    "id": "squ18",
+    "eng": "Hazel",
+    "chs": "艾栗丝",
+    "cht": "艾栗絲"
+  },
+  {
+    "id": "tig00",
+    "eng": "Rolf",
+    "chs": "朱穆朗",
+    "cht": "朱穆朗"
+  },
+  {
+    "id": "tig01",
+    "eng": "Rowan",
+    "chs": "戈麦斯",
+    "cht": "戈麥斯"
+  },
+  {
+    "id": "tig02",
+    "eng": "Tybalt",
+    "chs": "谷丰",
+    "cht": "谷豐"
+  },
+  {
+    "id": "tig03",
+    "eng": "Bangle",
+    "chs": "卢姿",
+    "cht": "盧姿"
+  },
+  {
+    "id": "tig04",
+    "eng": "Leonardo",
+    "chs": "阿彪",
+    "cht": "阿彪"
+  },
+  {
+    "id": "tig05",
+    "eng": "Claudia",
+    "chs": "马丽莲",
+    "cht": "馬麗蓮"
+  },
+  {
+    "id": "tig06",
+    "eng": "Bianca",
+    "chs": "小雪",
+    "cht": "小雪"
+  },
+  {
+    "id": "wol00",
+    "eng": "Chief",
+    "chs": "施傅",
+    "cht": "施傅"
+  },
+  {
+    "id": "wol01",
+    "eng": "Lobo",
+    "chs": "潘奇隆",
+    "cht": "潘奇隆"
+  },
+  {
+    "id": "wol02",
+    "eng": "Wolfgang",
+    "chs": "罗博",
+    "cht": "羅博"
+  },
+  {
+    "id": "wol03",
+    "eng": "Whitney",
+    "chs": "毕安卡",
+    "cht": "畢安卡"
+  },
+  {
+    "id": "wol04",
+    "eng": "Dobie",
+    "chs": "阿研",
+    "cht": "阿研"
+  },
+  {
+    "id": "wol05",
+    "eng": "Freya",
+    "chs": "冰冰",
+    "cht": "冰冰"
+  },
+  {
+    "id": "wol06",
+    "eng": "Fang",
+    "chs": "史培亚",
+    "cht": "史培亞"
+  },
+  {
+    "id": "wol08",
+    "eng": "Vivian",
+    "chs": "范妮沙",
+    "cht": "范妮莎"
+  },
+  {
+    "id": "wol09",
+    "eng": "Skye",
+    "chs": "百合",
+    "cht": "百合"
+  },
+  {
+    "id": "wol10",
+    "eng": "Kyle",
+    "chs": "李可",
+    "cht": "李可"
+  },
+  {
+    "id": "wol12",
+    "eng": "Audie",
+    "chs": "莫妮卡",
+    "cht": "莫妮卡"
+  },
+  {
+    "id": "ant05 ",
+    "eng": "Zoe",
+    "chs": "米粉",
+    "cht": "米粉"
+  },
+  {
+    "id": "brd09 ",
+    "eng": "Ace",
+    "chs": "羽毛",
+    "cht": "羽毛"
+  },
+  {
+    "id": "crd05",
+    "eng": "Roswell",
+    "chs": "皮隆孔",
+    "cht": "皮隆孔"
+  },
+  {
+    "id": "der11",
+    "eng": "Shino",
+    "chs": "佳芝",
+    "cht": "佳芝"
+  },
+  {
+    "id": "dog11",
+    "eng": "Frett",
+    "chs": "祥平",
+    "cht": "祥平"
+  },
+  {
+    "id": "ham09",
+    "eng": "Marlo",
+    "chs": "胖督",
+    "cht": "胖督"
+  },
+  {
+    "id": "kal07",
+    "eng": "Faith",
+    "chs": "游琪",
+    "cht": "游琪"
+  },
+  {
+    "id": "mnk09",
+    "eng": "Tiansheng",
+    "chs": "天圣",
+    "cht": "天聖"
+  },
+  {
+    "id": "mus19",
+    "eng": "Petri",
+    "chs": "理佳",
+    "cht": "理佳"
+  },
+  {
+    "id": "ocp04",
+    "eng": "Cephalobot",
+    "chs": "吉格尔",
+    "cht": "吉格爾"
+  },
+  {
+    "id": "ost04",
+    "eng": "Rio",
+    "chs": "勒内卢",
+    "cht": "勒內盧"
+  },
+  {
+    "id": "pbr10",
+    "eng": "Quinn",
+    "chs": "席恩",
+    "cht": "席恩"
+  },
+  {
+    "id": "pgn07",
+    "eng": "Chabwick",
+    "chs": "信雄",
+    "cht": "信雄"
+  },
+  {
+    "id": "rbt21",
+    "eng": "Sasha",
+    "chs": "蜜雪儿",
+    "cht": "蜜雪兒"
+  },
+  {
+    "id": "rhn05",
+    "eng": "Azalea",
+    "chs": "碧芊",
+    "cht": "碧芊"
+  },
+  {
+    "id": "squ21",
+    "eng": "Ione",
+    "chs": "穗星",
+    "cht": "穗星"
+  }
+]

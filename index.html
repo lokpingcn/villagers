@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>村民查询助手</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>村民查询助手</h1>
+        <input type="text" id="search-input" placeholder="输入简体中文或繁体中文名字">
+        <button id="search-btn" class="btn">查询</button>
+        <div id="result" class="result">
+            <p id="eng-name">英文名: </p>
+            <p id="code">代码名称: </p>
+            <pre id="command" class="command-display"></pre>
+            <button id="copy-command" class="btn">复制村民指令</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
